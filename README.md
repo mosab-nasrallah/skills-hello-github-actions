@@ -3,6 +3,7 @@
 # Hello GitHub Actions
 :smile:_:smile:_:smile:_:smile:_:smile:  
 :smile:_:smile:_:smile:_:smile:_:smile:  
+:smile:_:smile:_:smile:_:smile:_:smile:  
 _Create and run a GitHub Actions workflow._
 
 </header>
